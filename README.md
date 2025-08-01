@@ -9,7 +9,7 @@ Este projeto é uma landing page fictícia para uma barbearia chamada **Barbeari
 - Publicação via GitHub Pages 
 
 ### 🔗 Acesse a versão online:
-👉 [Ver site publicado](https://seuusuario.github.io/barbearia-elite)
+👉 [Ver site publicado](https://Raylande-Canuto-de-Sousa.github.io/barbearia-elite)
 
 ---
 
